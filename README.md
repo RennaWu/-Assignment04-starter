@@ -38,14 +38,23 @@ The starter code includes:
 
 ---
 
-## 📤 Expected Output Example (The values of price and quantity can be different, but the format must match.)
+## 📤 Expected Output Example  
+*(The values of price and quantity can be different, but the format must match.)*
 Supplier: Dell
-	•	Laptop | Price: $999.99 | Quantity: 10
-	•	Desktop | Price: $799.99 | Quantity: 5
+	•	Laptop  | Price: $999.99 | Quantity: 10	
+	•	Desktop | Price: $799.99 | Quantity: 5	
 	•	Monitor | Price: $199.99 | Quantity: 20
+
 ---
 
-## ✅ Submission - Do not upload `.class` or `.zip` files, only push your `.java` source code.
-- Commit and push your code to your repository.
-- Ensure your program runs correctly without errors.
-- Deadline: **[Insert Date]**
+---
+
+## ✅ Submission  
+⚠️ Do **NOT** upload `.class` or `.zip` files — only push your `.java` source code.  
+
+You must:  
+1. Commit and push your code to your repository.  
+2. Ensure your program runs correctly without errors.  
+3. Submit before the deadline.  
+
+**Deadline:** [Insert Date]  
