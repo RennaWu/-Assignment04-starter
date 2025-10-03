@@ -40,12 +40,14 @@ The starter code includes:
 
 ## 📤 Expected Output Example  
 *(The values of price and quantity can be different, but the format must match.)*
-Supplier: Dell
-	•	Laptop  | Price: $999.99 | Quantity: 10	
-	•	Desktop | Price: $799.99 | Quantity: 5	
-	•	Monitor | Price: $199.99 | Quantity: 20
 
----
+Supplier: **Dell**
+
+| Product  | Price   | Quantity |
+|----------|---------|----------|
+| Laptop   | $999.99 | 10       |
+| Desktop  | $799.99 | 5        |
+| Monitor  | $199.99 | 20       |
 
 ---
 
